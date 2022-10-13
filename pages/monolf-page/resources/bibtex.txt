@@ -1,0 +1,10 @@
+@misc{https://doi.org/10.48550/arxiv.2207.10357,
+  doi = {10.48550/ARXIV.2207.10357},
+  url = {https://arxiv.org/abs/2207.10357},
+  author = {Govindarajan, Shrisudhan and Shedligeri, Prasan and {Sarah} and Mitra, Kaushik},
+  keywords = {Image and Video Processing (eess.IV), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  title = {Synthesizing Light Field Video from Monocular Video},  
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
